@@ -1,13 +1,3 @@
-name: azure-ts-webserver
+name: digitalocean-tenplate
 runtime: nodejs
-description: Basic example of an Azure web server accessible over HTTP
-template:
-  config:
-    azure-native:location:
-      description: The Azure location to deploy to
-      default: westus
-    username:
-      description: The username used to configure the Virtual Machine
-    password:
-      description: The password used to configure the Virtual Machine
-      secret: true
+description: Basic example of a droplet, bucket and database
