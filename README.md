@@ -1,6 +1,8 @@
 # pulumi-azure-infra
 
-This code will deploy a Droplet, Bucket and a Postgres Database in DigitalOcean.
+This code will deploy a Droplet, Bucket and a Postgres Database in DigitalOcean. 
+
+I am using my local filesystem for Pulumi remote state.
 
 
 ## Running the app
