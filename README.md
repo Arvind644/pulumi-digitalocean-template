@@ -1,4 +1,4 @@
-# pulumi-azure-infra
+# pulumi-digitalocean-template
 
 This code will deploy a Droplet, Bucket and a Postgres Database in DigitalOcean. 
 
